@@ -1,0 +1,30 @@
+{
+  "vegetarian": {
+    "two_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    },
+    "three_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    },
+    "four_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    }
+  },
+  "gourmet": {
+    "two_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    },
+    "three_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    },
+    "four_recipes": {
+      "two_portions": 1000000,
+      "four_portions": 1000000
+    }
+  }
+}

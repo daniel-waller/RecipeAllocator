@@ -1,0 +1,90 @@
+{
+  "recipe_1": {
+    "stock_count": 3359,
+    "box_type": "vegetarian"
+  },
+  "recipe_2": {
+    "stock_count": 6502,
+    "box_type": "vegetarian"
+  },
+  "recipe_3": {
+    "stock_count": 1805,
+    "box_type": "vegetarian"
+  },
+  "recipe_4": {
+    "stock_count": 11217,
+    "box_type": "vegetarian"
+  },
+  "recipe_5": {
+    "stock_count": 1228,
+    "box_type": "vegetarian"
+  },
+  "recipe_6": {
+    "stock_count": 43705,
+    "box_type": "vegetarian"
+  },
+  "recipe_7": {
+    "stock_count": 12104,
+    "box_type": "gourmet"
+  },
+  "recipe_8": {
+    "stock_count": 2304,
+    "box_type": "gourmet"
+  },
+  "recipe_9": {
+    "stock_count": 9190,
+    "box_type": "gourmet"
+  },
+  "recipe_10": {
+    "stock_count": 9149,
+    "box_type": "gourmet"
+  },
+  "recipe_11": {
+    "stock_count": 13370,
+    "box_type": "gourmet"
+  },
+  "recipe_12": {
+    "stock_count": 15490,
+    "box_type": "gourmet"
+  },
+  "recipe_13": {
+    "stock_count": 16334,
+    "box_type": "gourmet"
+  },
+  "recipe_14": {
+    "stock_count": 13140,
+    "box_type": "gourmet"
+  },
+  "recipe_15": {
+    "stock_count": 3659,
+    "box_type": "gourmet"
+  },
+  "recipe_16": {
+    "stock_count": 1280,
+    "box_type": "gourmet"
+  },
+  "recipe_17": {
+    "stock_count": 10059,
+    "box_type": "gourmet"
+  },
+  "recipe_18": {
+    "stock_count": 16849,
+    "box_type": "gourmet"
+  },
+  "recipe_19": {
+    "stock_count": 17576,
+    "box_type": "gourmet"
+  },
+  "recipe_20": {
+    "stock_count": 4404,
+    "box_type": "gourmet"
+  },
+  "recipe_21": {
+    "stock_count": 17933,
+    "box_type": "gourmet"
+  },
+  "recipe_22": {
+    "stock_count": 23955,
+    "box_type": "gourmet"
+  }
+}
